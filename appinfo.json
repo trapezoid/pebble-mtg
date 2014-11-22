@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "trapezoid.g@gmail.com",
+    "longName": "MTG",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "MTG",
+    "uuid": "1c587229-7e22-4b99-bf7e-832bac568792",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
